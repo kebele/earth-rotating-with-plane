@@ -43,7 +43,7 @@ body {
     border-radius: 50%;
     background: url('cloud.png');
     background-size: cover;
-    z-index: 1;
+    z-index: 3;
     animation: animate 18s linear infinite;
 }
 
